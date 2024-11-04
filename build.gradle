@@ -46,7 +46,7 @@ dependencies {
     implementation 'com.swiftmq:swiftmq-client:13.0.2'
     implementation 'org.xmlunit:xmlunit-matchers:2.10.0'
     implementation 'com.github.jknack:handlebars:4.4.0'
-    implementation 'org.bouncycastle:bcpkix-jdk18on:1.78.1'
+    implementation 'org.bouncycastle:bcpkix-jdk18on:1.79'
     implementation 'xerces:xercesImpl:2.12.2'
 
     compileOnly 'org.projectlombok:lombok'
