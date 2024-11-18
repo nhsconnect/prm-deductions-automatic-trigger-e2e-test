@@ -22,7 +22,7 @@ repositories {
 }
 
 dependencies {
-    implementation(platform("software.amazon.awssdk:bom:2.27.3"))
+    implementation(platform("software.amazon.awssdk:bom:2.29.15"))
 
     implementation 'org.springframework.boot:spring-boot-starter'
     implementation 'org.springframework.boot:spring-boot-starter-web'
